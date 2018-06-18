@@ -6,14 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "babel":{
-    "presets": ["env","react","stage-2"]
+  "babel": {
+    "presets": [
+      "env",
+      "react",
+      "stage-2"
+    ]
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
     "proptypes": "^1.1.0",
-    "react": "^16.4.1",
     "react-dom": "^16.4.1"
   },
   "devDependencies": {
@@ -21,6 +24,7 @@
     "babel-loader": "^7.1.4",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
-    "babel-preset-stage-2": "^6.24.1"
+    "babel-preset-stage-2": "^6.24.1",
+    "react": "^16.4.1"
   }
 }

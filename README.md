@@ -1,4 +1,4 @@
-Basically, I really dislike how opinionated create-react-app is. This is a much smaller boilerplatethat just has the bits needed to start development.
+Basically I really dislike how opinionated create-react-app is. This is a much smaller boilerplate that just has the bits needed to start development.
 
 * It doesn't pick your unit test framework for you
 * It doesn't hide your configuration files from you

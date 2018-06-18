@@ -7,6 +7,8 @@ Basically I really dislike how opinionated create-react-app is. This is a much s
 * It doesn't assume you have a clue what a PWA is.
 * It just installs the minimum possible config for babel, webpack and react
 
+------------
+
 I've put the licesce in the package.json to "UNLICENSED", because I think that opting anyone who uses this boilerplate into the MIT licsence by default is a bit dumb.
 
 The boilerplate itself is licensed under the MIT licence, you are free to use it as you like. Licence declaration below:

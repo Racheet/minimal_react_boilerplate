@@ -3,9 +3,10 @@ module.exports = {
     mode: "development",
     output : {
       filename: "bundle.js",
-      path: __dirname + "/dist/"
-      
+      path: __dirname + "/dist/",
+      sourceMapFilename : "bundle.map"
     },
+    devtool : "#source-map",
     module: {
       rules: [
         {
